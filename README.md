@@ -116,14 +116,17 @@ python Experiments/Sythetic_DAG_data/ctf_test_temp_vae_synth_c_vae.py --ckpt mod
 If you use this code, please cite:
 
 ```
-@inproceedings{thumm2025causalmarket,
-  title={Towards Causal Market Simulators},
-  author={Thumm, Dennis and Ontaneda Mijares, Luis},
-  booktitle={ACM International Conference on AI in Finance (ICAIF '25)},
-  year={2025}
+@conference{thumm2025towards,
+    author = {Thumm, Dennis and Mijares, Luis Ontaneda},
+    booktitle = {ICAIF 2025 Workshop on Rethinking Financial Time-Series},
+    title = {Towards Causal Market Simulators},
+    year = {2025},
+    address   = {Singapore},
+    url = {https://icaif-25-rfts.github.io}
 }
 ```
 
 ---
 
 © 2025 Dennis Thumm & Luis Ontaneda Mijares
+
